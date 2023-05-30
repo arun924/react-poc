@@ -1,1 +1,3 @@
-# react-poc
+npm i 
+
+npm start
